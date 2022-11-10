@@ -97,7 +97,7 @@ nav svg{
     .wrapper{
         grid-template-columns: 1fr 90% 1fr;
     }
-    .content{
+    .main{
         grid-template-columns: repeat(2, 1fr); /* change to 2 columns */
     }
     .promotion{
@@ -115,7 +115,7 @@ nav svg{
     nav svg{
         display: block;
     }
-    .content{
+    .main{
         grid-template-columns: auto; /* only 1 column */
     }
     .promotion{
